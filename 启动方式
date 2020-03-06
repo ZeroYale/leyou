@@ -23,7 +23,8 @@ npm start
 ## 3、后台微服务
 
 ## 4、虚拟机
-
+user:root
+password:123456
 ```
 * su - leyou 
 * cd elasticsearch/bin/
